@@ -1,0 +1,54 @@
+
+body{
+	
+	margin: 0;
+background: #f0f0fb82;
+text-align: center;
+
+
+
+}	
+div{
+background: #56b9d6;
+width: 1000;
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+padding: 50px;
+text text-align: center;
+
+box-shadow:  20px 0px 13px 0px #9c9cca;
+
+
+
+}
+h1{  margin-top: 20px;
+
+  font-size: 200;
+    color: #32bbae;
+    text-align: center;
+}
+
+
+
+p{
+
+	font-size: 50;
+    color: #474756;
+  text-align: center;
+
+}
+
+
+h2{
+  
+   font-size: 30;
+    color: #32bbae;  
+      text-align: center;
+
+}
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
